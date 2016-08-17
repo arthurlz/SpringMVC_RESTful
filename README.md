@@ -11,7 +11,7 @@ git clone https://github.com/loveppears/SpringMVC_RESTful.git
 mvn tomcat7:run
 ```
 
-3.Visit[http://localhost:8080/Restful/employee](http://localhost:8080/Restful/employee) to retrieve the data.
+3.Visit [http://localhost:8080/Restful/employee](http://localhost:8080/Restful/employee) to retrieve the data.
 #### Get a specific data. 
 [http://localhost:8080/Restful/employee/1](http://localhost:8080/Restful/employee/1) It will return ```{"id":1,"name":"Beckett","age":38,"salary":150000.0,"gender":"Male"}```
 
